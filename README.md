@@ -19,7 +19,7 @@ Import Database dbperpus2
   setelah itu Import file dbperpus2 yang ada pada directory project ini untuk mendapatkan tabel beserta semua isinya.
 ```
 
-Configuration Connection DB
+Configuration koneksi Database
 
 ```
   buka file koneksi.php kemudian sesuaikan user, password, nama database yang telah kalian buat sebelumnya.
