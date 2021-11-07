@@ -5,7 +5,7 @@ Sistem infonformasi perpustakaan yang dibangun mengunakan PHP
 
 ## Installation
 
-``bash download https://github.com/salmonella-code/sistem-perpustakaan.git
+``bash download https://github.com/Ardhifm/sistem-perpustakaan.git
 ```
 
 Pergi ke directory project
