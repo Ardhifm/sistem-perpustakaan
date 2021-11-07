@@ -10,9 +10,7 @@ Sistem infonformasi perpustakaan yang dibangun mengunakan PHP
 
 Pergi ke directory project
 
-```bash
-  cd perpustakaan
-```
+perpustakaan
 
 Import Database dbperpus2
 
