@@ -15,19 +15,22 @@ perpustakaan
 Import Database dbperpus2
 
 ```bash
-  buka phpmyadmin kemudian buat Database dengan nama dbperpus2 setelah itu Import file dbperpus2 yang ada pada directory project ini untuk mendapatkan tabel beserta semua isinya.
+  buka phpmyadmin kemudian buat Database dengan nama dbperpus2 
+  setelah itu Import file dbperpus2 yang ada pada directory project ini untuk mendapatkan tabel beserta semua isinya.
 ```
 
 Configuration Connection DB
 
 ```bash
-  buka file koneksi.php yang terletak pada directory controller kemudian sesuaikan user, password, nama database yang telah kalian buat sebelumnya.
+  buka file koneksi.php kemudian sesuaikan user, password, nama database yang telah kalian buat sebelumnya.
 ```
 
 Cara Menggunakan
 
 ```bash
-  buka browser kalian apa saja, kemudian pada bagian tab url ketikan (Sebagai Contoh): http://localhost/perpustakaan/   maka secara otomatis aka menampilkan halaman login
+  buka browser kalian apa saja.
+  kemudian pada bagian tab url ketikan (Sebagai Contoh): http://localhost/perpustakaan/   
+  maka secara otomatis aka menampilkan halaman login
   ```
   
 ## User
@@ -104,8 +107,7 @@ user login yang tersimpan pada website ini adalah
 - [@Muhammad Ardhi Hidayad](https://github.com/Ardhifm)
 
 ## 🚀 About Me
-I'm a junior web developer...
+I'm a newbie web developer...
 
   
-# sistem-perpustakaan
 # sistem-perpustakaan
